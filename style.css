@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(./assets/fonts/Montserrat-Regular.woff);
+    
+}
+@font-face {
+    font-family: ELEPHANT;
+    src: url(./assets/fonts/ELEPHANT.woff);
+    
+}
+
+h2{
+    font-family: "ELEPHANT";
+    color:#702f7e;
+   
+}
+
+P{
+    font-family: "Montserrat";
+    
+}
